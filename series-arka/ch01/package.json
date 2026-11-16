@@ -1,0 +1,27 @@
+{
+  "name": "arka-ch01",
+  "private": true,
+  "version": "1.0.0",
+  "description": "AKU SUDAH MATI 7 HARI YANG LALU - Chapter 01 (cartoon-3d-short pipeline)",
+  "type": "module",
+  "scripts": {
+    "typecheck": "tsc --noEmit",
+    "postinstall": "python3 scripts/patch_compositor.py"
+  },
+  "dependencies": {
+    "@react-three/fiber": "^8.18.0",
+    "@react-three/postprocessing": "^2.19.1",
+    "@remotion/bundler": "^4.0.380",
+    "@remotion/cli": "^4.0.380",
+    "@remotion/renderer": "^4.0.380",
+    "@remotion/three": "^4.0.380",
+    "@types/react": "^18.3.31",
+    "@types/three": "^0.181.0",
+    "postprocessing": "^6.39.6",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "remotion": "^4.0.380",
+    "three": "^0.181.2",
+    "typescript": "5.9"
+  }
+}
