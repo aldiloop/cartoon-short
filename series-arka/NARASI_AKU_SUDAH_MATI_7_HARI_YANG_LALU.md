@@ -4,6 +4,8 @@ Serial Animasi Mystery Thriller — 10 Chapter
 
 Narasi asli dari Aldi, 16 Nov 2026. Dipakai kata per kata sebagai naskah serial, bukan ditulis ulang oleh Kiro/Muse.
 
+ATURAN PRODUKSI (Aldi, 16 Nov 2026 20:36 WIB): tiap chapter/episode durasi MINIMAL 45 detik. Cara mencapai 45 detik TANPA menambah kata narasi: pacing narasi lambat khas thriller, jeda/hening di momen tegang, beat SFX (ketukan pintu, getar ponsel, bisikan), dan visual hold / kamera pelan di shot kunci. Jangan tambah kalimat baru ke narasi Aldi.
+
 ## CHAPTER 01 — PESAN DARI ORANG MATI
 
 Bayangkan jika suatu malam, ponselmu menerima pesan dari nomor teleponmu sendiri.
